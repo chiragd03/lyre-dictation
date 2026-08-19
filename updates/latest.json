@@ -1,15 +1,6 @@
 {
-  "version": "0.1.1",
-  "notes": "Refines the About section in Settings.",
+  "version": "0.1.0",
+  "notes": "Lyre 0.1.0.",
   "pub_date": "2026-08-19T00:00:00Z",
-  "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djVIaHlIcU8wTEhiSC9xcXlCdG9JS2dOV09qWDdIWWJWamVDN1NlR2NLeXF1YUFzSTBHbGVmcHNPbjB0Y2JwcmordWhPSTl2YWZ1czRUN1dLYi9OUEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTExMzQzCWZpbGU6THlyZV9hYXJjaDY0LmFwcC50YXIuZ3oKZVpPRmdlaWNKQ2c5NmlmWExubmlxbG93SlFuck1IOGVDazVqWkZLSk80SVJFa1JXMVI3VGxCM3JPa1B5TlZPMG9keGRnT3dhc2QwR3Z2cjlEdEdwRGc9PQo=",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.1/Lyre_aarch64.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2dno5US9xR3lnK01YWG14UDJhNGNtZ1lxUHA0VXZ0UmtnSzBZcUtYd2E5VEp4NUJiVXRjMldIRzB6eUJSZDMrcU12VUcxZ3ppQ0VxVEJ0ZWtmOVhZY3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTUyMTU1CWZpbGU6THlyZV8wLjEuMV94NjQtc2V0dXAuZXhlCjM2Tk1EYk54b3dmczFkbE5QY3J1VmdKd2grLzl5RHBFUmo0Y3JiSG9kYmJFcTVKM01RQ1ZyM0JuLzgxdUxsZ0wrUUpYV0xHNTUzRHJqMG1xSEl4MUJnPT0K",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.1/Lyre_0.1.1_x64-setup.exe"
-    }
-  }
+  "platforms": {}
 }
