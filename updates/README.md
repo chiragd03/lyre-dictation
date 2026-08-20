@@ -7,7 +7,7 @@ The app's updater endpoint (in `src-tauri/tauri.conf.json`) is:
 
     https://raw.githubusercontent.com/chiragd03/lyre-dictation/main/updates/latest.json
 
-## `latest.json` (generated — do not hand-edit signatures)
+## `latest.json` (generated, do not hand-edit signatures)
 
 Standard Tauri updater manifest. Produced by `packaging/make-update-manifest.sh`
 after a signed build. Shape:

@@ -1,0 +1,54 @@
+name: Bug report
+description: Something isn't working right in Lyre.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. To help diagnose it quickly, please attach a
+        **debug bundle**: in Lyre, open **Settings → Diagnostics → Export logs**.
+        It contains app logs and system info only. It does NOT include your audio,
+        your dictated text, or your API keys.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what actually happened?
+      placeholder: I held the hotkey and spoke, but no text was inserted...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open <app>
+        2. Hold the dictation hotkey and speak
+        3. See the error
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Lyre version
+      description: See Settings → Diagnostics (also in the debug bundle's system info).
+      placeholder: "0.1.0"
+    validations:
+      required: false
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - macOS (Apple Silicon)
+        - macOS (Intel)
+        - Windows
+    validations:
+      required: true
+  - type: checkboxes
+    id: bundle
+    attributes:
+      label: Debug bundle
+      options:
+        - label: I've attached a debug bundle (drag the .zip into this issue).
+          required: false
