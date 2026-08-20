@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
-  "notes": "Lyre 0.1.0.",
+  "version": "0.1.1",
+  "notes": "Adds an About section in Settings.",
   "pub_date": "2026-08-19T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2dno5amZVZXIxYXZkK0M3YU0vZEZIekZGYVFTOXc4ZnJhNTVROTZpZmxqR2YyY1hpait3c3VkYmNxanFCTnhRTTY2dnBtWkw5REV3RHZmWEluMVhaQ0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTg4NTU4CWZpbGU6THlyZV9hYXJjaDY0LmFwcC50YXIuZ3oKK08rTVVhd3lMV3Fzb0drTG5TTFNoTm8vb3laV2lYMTY0Q3NlZGdmckJGcVl2TzA3SXhPNjdNeW5seFduL3lQRlQrNGRldFUrbyt0N01vWHNGMXIvQWc9PQo=",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.0/Lyre_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djEzdHUvd3o2TFhNREZCbWV3WXREbXovTWZtWlR1R29QTkZucmtuNjVtMWJkSVVyVHdzYm0wNlhEaWVsUUVuM2ZOQUdLdEhpRlo4V0ZWOG9kMWRBZHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTkyNDk0CWZpbGU6THlyZV9hYXJjaDY0LmFwcC50YXIuZ3oKazJFKzdneFk3TE9XR2pjQVUxVFcwYmxWeGlKUHpKYjlXSlRIbmwvUS9PRTJYQ2J5UE9nQXhQS05hZU40eDdZRklGMnRBcWlwdmlkTU1EWW9HWmxPREE9PQo=",
+      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.1/Lyre_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2dnpBSDFwQlpaVGRWNVN4RXFOaGFkM1NiQjZBck9Wb3VMMkNTa2dIUVVkVzhaN0FMTFgreEhXWFAxbzAyMEtVLzN4bktRdmFQbDF1ak11TUNWL2J2ZndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTg4NjczCWZpbGU6THlyZV94ODZfNjQuYXBwLnRhci5negpaOXlLQXgxVFJ5bTRmRjVTS21QVU4xYkg0aVJBRmF3MXJFdndEQ2hFQnVxQjRIQXhUQlZyb2R5aUtHSDVTQU01MUg5eGdKQ0tsVXRvdHMySm9rWFRBQT09Cg==",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.0/Lyre_x86_64.app.tar.gz"
+      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.1/Lyre_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2di9nMmlBM0J2TEQwQlBnSTZsV015bThjMDErbUdmTTl2UDNGQStxUVVyS2ZOR1kvemtjQ3ZFUFN3MkdMNTZ3U2lxMDM5cTExczNNWVEreW1oRWM0UVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTg4OTMwCWZpbGU6THlyZV8wLjEuMF94NjQtc2V0dXAuZXhlCklmT1FZNFpJcmRZT20wdXN5RE42N3FVa2hHako4MFNJd2RwNzAyL2NnWjBieFJQVm41dUpYSzlJdkp2Zkp6U3JXcTRqc01vcmwzK2x1UGYrZnJsNkNBPT0K",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.0/Lyre_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2di9DSFRhN1hDYzBqdlgvZ2NXSUtlcEFqQTRBdjBzZWtId2xpTnRwVkpSckozZFlVMUxwTGVySjJ1VDN0NUlsSEQwL3UzRmsrU280a1RvNm5lWVlFRGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTkyNjc2CWZpbGU6THlyZV8wLjEuMV94NjQtc2V0dXAuZXhlCjVZM2oyTnowUWtVL1hJZ29oU2twQmE4V2FFYXdrZGhpQ2Y3QzBDemtYamFUTEp1c0ZzQk03WHd0NjlpRHUranFCUTlDY3g0V0laVzFFMUtxOFNneUJRPT0K",
+      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.1/Lyre_0.1.1_x64-setup.exe"
     }
   }
 }
