@@ -1,19 +1,19 @@
 {
-  "version": "0.1.2",
-  "notes": "Push-to-talk hotkeys now support modifier combos (⌘ ⌥ ⌃ ⇧).",
-  "pub_date": "2026-08-27T00:00:00Z",
+  "version": "0.1.3",
+  "notes": "Push-to-talk now works with a single modifier key (e.g. Right Control).",
+  "pub_date": "2026-09-05T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djFXTUwzU2d6alRUeTd0bHFMTWJXVVRQUTBDZDZmN21pUE1la28zakRwSGhZKzJmWlhPSkpyTE0rbllVM1N2NlIyUkxuZlhWckpSd2xRL0pzZkFJNFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODU4MTQzCWZpbGU6THlyZV9hYXJjaDY0LmFwcC50YXIuZ3oKd09GejlxR2Jtc0lMSUtmU3pVczN2eWQyRkRmVlQvVmZSZVFLYkpleEZweE96Ti9GdGh2YmhoZWF6NTNtWW5jcVdkd1hyWTM1WFo4RCtxOHcvVHk2QXc9PQo=",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.2/Lyre_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djh2K284aHpRMzRSbENseGR2UC9vQWM4R0lEN3VNWmhpK1djUFJIUEtxYk1NN3lSRTI4T0gwWXh0N2FWNXZaS25laDMrRUdoNHdxREtYbUIwV2lvS1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjQxMjc1CWZpbGU6THlyZV9hYXJjaDY0LmFwcC50YXIuZ3oKRjJIOEUxSkZwRjZvYmh1OTJUbVNIUDArWDIrV3IxSWZMYVo3M3NZMTI1eFI3RlVQTHlxK0VUeWNLQmdxRmViZlFHQkpXVllja0R6WVBST0NDK041QVE9PQo=",
+      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.3/Lyre_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djEyaFRGVFVMcjZaTzZuRzhzUDdPU3BIRXBjYTNOcXAzaGRMbkVNdkpUWE9IazJidEJqcTMyOTBkRytuNXErZkpXMXZVd0JwMFZneGZsK1cyY1JzY1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODU5MjY3CWZpbGU6THlyZV94ODZfNjQuYXBwLnRhci5negpTTDZ1LzB4TWxqVnJmMnVTNkx3TnVyRFpnVzZwbzFaTmlEaFV4ajhSN3J4emFpRTVldWY2WFM5bTVZK0gzeXoyNkNDN29neVJxSExhN0RsWXZmVVlCQT09Cg==",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.2/Lyre_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djlIR084QXNreUl5Q2NvbGlENCsvOVJhQVA1TmVYM1NSY2c3WU91cE15Y1d1Yi9DQ3NNTHVWZHJ2Y2h1SWt6OEduQ1FhYk9KL0pqbUtFZDc3MTdUaUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjQxMzQ3CWZpbGU6THlyZV94ODZfNjQuYXBwLnRhci5negpub3hYTk94UkhMWFNWK0N5WDc1Z0JoYXFWODQzVXpjMXhITGUwcGhjaUYwbHVWTWQvUG9qQVgwTGVLaWpMS0p3L0RBbGdvbnhtTHRVb205YkZ1MDhBZz09Cg==",
+      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.3/Lyre_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djczcU56a3I1dnBQY2lhb0tFTGJWQTJMbDYzMEN6V0RjRGI4RURkcWlLSmNOU0pwbVpGNThlc0txbUhDYmlSWU5QQmNEL3NZcE55YldYWmRVc1NHUVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODU4NzUyCWZpbGU6THlyZV8wLjEuMl94NjQtc2V0dXAuZXhlCmIwalJHTzhMVWJRM216TTFuTVdEVndkZ1BIdmJoL3lHTjAxNS9MRkZucTRnT24wZklTWWNIKzZWOWNrckVGb1ZkejJsVmNJODJGRUVRdDlRWDNhUkJBPT0K",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.2/Lyre_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2dnkrUmhwRXZaOWlPQVowdzdtaWthOWRlWnhacU5SVzhLRHg5T3BvOFc3UzhOa1BqUy8xMmh5d0JkZGUvOVMrQ0xZQlBBUHdJUjNwZisybGowK01nVEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjQxNDg5CWZpbGU6THlyZV8wLjEuM194NjQtc2V0dXAuZXhlClRjOVg3RTBRdDdKbWxaalpBVGh5aVMwR1JBbHZKQU1SL1FqWXRja1BFdXlvd2xLalZIUGpSR0haZVVycFpORG1xK3BJUHNaQUYzMkQ0QkdXcEE3Z0NnPT0K",
+      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.3/Lyre_0.1.3_x64-setup.exe"
     }
   }
 }
