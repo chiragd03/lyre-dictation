@@ -3,6 +3,10 @@
   "notes": "Changing a hotkey now takes effect immediately, and Parakeet downloads work again.",
   "pub_date": "2026-11-14T04:19:57Z",
   "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2dnlEcldzSjBvMnVESkRlaFR6UDg5dFdXVUN3bzBWOXlHcE1HSWJQTjVqdVJ4Q0x4cHA3L1R5dTBDSUkvZFdINXo5WmRteEFBSFJvQUVGTDU5N3QvRWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjMxMjYyCWZpbGU6THlyZV9hYXJjaDY0LmFwcC50YXIuZ3oKbjhoaHBWWFdVendFdkM3YUlFbjZmckNocS9ONmhQcHEzVk1jL2dEVjB1UW5GV3BoM29vTHU3QmpiT2EyRjhjaFNkZU1GNVdWOXIzajdVMGcwRE5IRHc9PQo=",
+      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.5/Lyre_aarch64.app.tar.gz"
+    },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djliS0lXdHRPZ1JXVVpKdVlidVdER1A0c1haQXgxUEVHa1VqdHVjay9DVnBwaDV2ay9RTXlidStGbUo5TFZVY29DWWMyczBOQ2gxdEp4OHFVZ2dJNUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI5ODA5CWZpbGU6THlyZV94ODZfNjQuYXBwLnRhci5negpBN0lEYTNtc2xlOW51TE1DUmZlb3VsK2EzSzJ1T1N5QlFEZjFsUHZmb1ZHMFNNMkd5alRRWW55TzNjbGo4YnJGdkVFQ2VmNDFwaDEwR1paU01nZFFEQT09Cg==",
       "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.5/Lyre_x86_64.app.tar.gz"
