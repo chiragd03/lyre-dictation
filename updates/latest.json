@@ -1,19 +1,15 @@
 {
-  "version": "0.1.4",
-  "notes": "Model downloads now work behind corporate HTTPS proxies (e.g. Netskope), and download errors are logged in detail.",
-  "pub_date": "2026-11-10T18:55:45Z",
+  "version": "0.1.5",
+  "notes": "Changing a hotkey now takes effect immediately, and Parakeet downloads work again.",
+  "pub_date": "2026-11-14T04:19:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djJlSnk0RnBsVDBvOVJUMFlNQ0JZZXJvUnZsWkJCeWd5RFJnNFNJWkc0YzFzYUlPVG9YVlpibXFOYWRxZklGNWxtMWtUVmI0bDBtc1VVTC8xTWlwT2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzM1MDk1CWZpbGU6THlyZV9hYXJjaDY0LmFwcC50YXIuZ3oKSGNDMzhrU2FlWnhxVGlBT0FwQ25EQ2o5SEczTmNWZzFsTWRmLy9qNStsSEFjQnd0KzJyaUdXemZIU0ZjMWJ6MlNmdy9SVmtzVzBCVmdSMzd2bFl1Q2c9PQo=",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.4/Lyre_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2dnhTWlVNclQ4b2g4Y3dMUHMwZWJ6eHEzSjJ0Yi9BVXdoc3hLQTQ4djlXeDlhb0tvb2hGdXdScFlHNFRsZ2FyVW1udno4aEJTOHV6bWpDd3FYWlZMNHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI5NjQ3CWZpbGU6THlyZV9hYXJjaDY0LmFwcC50YXIuZ3oKZ012cGRmL25JWVdSczB2d1pwdm1XR2E4U21KYlY5N1I1SW1peFlmYml0TnNqeDVBQ1pCbVp0RjJBaVVQYkdVWDJ1OC9RM0g0c2svamNWS2kxMm1wQ2c9PQo=",
+      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.5/Lyre_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djV6d2hlaW1lK29wSVdlWG5WNXpoemNHbnNZRG4vcmdod2w5U3N0NkNmTDEvT01HdDRwVTFkMENZZEFHRmoxQ2FyOC8ydGtCVjZ3WGRQQUk5UFNabkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzM2NjE0CWZpbGU6THlyZV94ODZfNjQuYXBwLnRhci5negpjUTBxdDFCcXVxUTVZS0JVaHdpYWc4ZkZ4Ym9IYkRaRlhNUjlpVnFLcXE1em5wTEJ0SEhnb1BPOHV2MHlQOUZMOGM4dWdsb3BrZkVERDRGNVh2WTFDdz09Cg==",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.4/Lyre_x86_64.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djFoSlFrWEFpb3pjT3BsVVhVWUhwTUFMcktCQWVKdThPcDdZVnVCMS9Qb1R4NXNYc3ZoUUM5aFlseEFJR0hMcXRUQ3lkMXVpZXRRZzNNNkJaSXQ1TkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzM1OTAwCWZpbGU6THlyZV8wLjEuNF94NjQtc2V0dXAuZXhlCmMxMnRGSElseUl0b0lkQ052ckhLclRFTWVhVERDdXh4aklmenZMa0xEVFh3VkNHR1ZpYXhodlFjUHZLdm5LV21GbmtwcEJIZTF0ck1ubHJ3YURORURBPT0K",
-      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.4/Lyre_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSVVWT1I2Umg2djliS0lXdHRPZ1JXVVpKdVlidVdER1A0c1haQXgxUEVHa1VqdHVjay9DVnBwaDV2ay9RTXlidStGbUo5TFZVY29DWWMyczBOQ2gxdEp4OHFVZ2dJNUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI5ODA5CWZpbGU6THlyZV94ODZfNjQuYXBwLnRhci5negpBN0lEYTNtc2xlOW51TE1DUmZlb3VsK2EzSzJ1T1N5QlFEZjFsUHZmb1ZHMFNNMkd5alRRWW55TzNjbGo4YnJGdkVFQ2VmNDFwaDEwR1paU01nZFFEQT09Cg==",
+      "url": "https://github.com/chiragd03/lyre-dictation/releases/download/v0.1.5/Lyre_x86_64.app.tar.gz"
     }
   }
 }
